@@ -2,10 +2,10 @@
 	"name" : "gamepad-input-display",
 	"version" : 1,
 	"creationdate" : 3802287536,
-	"modificationdate" : 3802287537,
-	"viewrect" : [ 0.0, 0.0, 300.0, 500.0 ],
+	"modificationdate" : 3802293917,
+	"viewrect" : [ 694.0, 492.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
-	"hideprojectwindow" : 0,
+	"hideprojectwindow" : 1,
 	"showdependencies" : 1,
 	"autolocalize" : 0,
 	"contents" : 	{
@@ -19,6 +19,10 @@
 		}
 ,
 		"media" : 		{
+
+		}
+,
+		"externals" : 		{
 
 		}
 
