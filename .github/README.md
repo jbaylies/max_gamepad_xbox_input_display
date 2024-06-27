@@ -1,4 +1,10 @@
+<a href="#">![rainbow](./media/rainbow.png)</a>
+
+<div align="center">
+
 ![sousafx](./media/presentation.webp)
+
+</div>
 
 <a href="#studio_microphone-introduction">![rainbow](./media/rainbow.png)</a>
 
