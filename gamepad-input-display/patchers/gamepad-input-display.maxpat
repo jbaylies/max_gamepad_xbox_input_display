@@ -2,17 +2,17 @@
 	"patcher" : 	{
 		"fileversion" : 1,
 		"appversion" : 		{
-			"major" : 8,
-			"minor" : 6,
-			"revision" : 3,
+			"major" : 9,
+			"minor" : 0,
+			"revision" : 0,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 87.0, 2047.0, 1319.0 ],
+		"rect" : [ 1320.0, 733.0, 722.0, 496.0 ],
 		"bglocked" : 0,
-		"openinpresentation" : 0,
+		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
 		"default_fontface" : 0,
 		"default_fontname" : "Arial",
@@ -2190,203 +2190,203 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "white-circle-svgrepo-com.svg",
-				"bootpath" : "~/Downloads",
-				"patcherrelativepath" : "../../../Downloads",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "svg",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_button_color_a.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_button_color_a_outline.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_button_color_b.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_button_color_b_outline.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_button_color_x.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_button_color_x_outline.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_button_color_y.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_button_color_y_outline.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_button_menu.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_button_menu_outline.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_button_view.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_button_view_outline.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_dpad.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_dpad_down.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_dpad_left.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_dpad_right.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_dpad_up.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_lb.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_lb_outline.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_lt.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_lt_outline.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_rb.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_rb_outline.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_rt.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_rt_outline.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_stick_top_l.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "xbox_stick_top_r.png",
-				"bootpath" : "~/Downloads/kenney_input-prompts/Xbox Series/Double",
-				"patcherrelativepath" : "../../../Downloads/kenney_input-prompts/Xbox Series/Double",
+				"bootpath" : "~/Documents/Max 8/Projects/max_gamepad_xbox_input_display/gamepad-input-display/media",
+				"patcherrelativepath" : "../media",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "zero.announce.mxo",
-				"type" : "iLaX"
+				"name" : "zero.announce.mxe64",
+				"type" : "mx64"
 			}
  ],
 		"autosave" : 0,
