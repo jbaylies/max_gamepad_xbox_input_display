@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 63.0, 95.0, 1534.0, 1292.0 ],
+		"openrect" : [ 63.0, 95.0, 764.0, 852.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -21,17 +21,17 @@
 		"gridsnaponopen" : 1,
 		"objectsnaponopen" : 1,
 		"statusbarvisible" : 2,
-		"toolbarvisible" : 1,
-		"lefttoolbarpinned" : 0,
-		"toptoolbarpinned" : 0,
-		"righttoolbarpinned" : 0,
-		"bottomtoolbarpinned" : 0,
-		"toolbars_unpinned_last_save" : 0,
+		"toolbarvisible" : 0,
+		"lefttoolbarpinned" : 2,
+		"toptoolbarpinned" : 2,
+		"righttoolbarpinned" : 2,
+		"bottomtoolbarpinned" : 2,
+		"toolbars_unpinned_last_save" : 15,
 		"tallnewobj" : 0,
 		"boxanimatetime" : 200,
 		"enablehscroll" : 1,
 		"enablevscroll" : 1,
-		"devicewidth" : 0.0,
+		"devicewidth" : 764.0,
 		"description" : "",
 		"digest" : "",
 		"tags" : "",
@@ -110,7 +110,6 @@
 					"numinlets" : 0,
 					"numoutlets" : 0,
 					"patching_rect" : [ 283.0, 539.0, 199.0, 35.0 ],
-					"presentation_linecount" : 2,
 					"suppressinlet" : 1,
 					"text" : "`prepend \"\"`, an uncopyable object, must be typed in to prepend a space"
 				}
@@ -163,7 +162,7 @@
 					"patching_rect" : [ 224.0, 614.0, 474.0, 28.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 6.0, 383.0, 315.0, 28.0 ],
-					"text" : "  ",
+					"text" : " ",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -191,7 +190,7 @@
 					"patching_rect" : [ 114.0, 533.0, 428.0, 30.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 354.0, 457.0, 373.0, 30.0 ],
-					"text" : "  ",
+					"text" : " ",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -219,7 +218,7 @@
 					"patching_rect" : [ 43.0, 451.0, 427.0, 30.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 6.0, 457.0, 426.0, 30.0 ],
-					"text" : "  ",
+					"text" : " ",
 					"textcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
 				}
 
@@ -2709,8 +2708,8 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "zero.announce.mxo",
-				"type" : "iLaX"
+				"name" : "zero.announce.mxe64",
+				"type" : "mx64"
 			}
  ],
 		"autosave" : 0,
